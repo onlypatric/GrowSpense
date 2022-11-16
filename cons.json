@@ -1,4 +1,5 @@
 {
+    "Desc":"Response from winget API",
     "Packages": [
         {
             "Id": "SteamGridDB.RomManager",
