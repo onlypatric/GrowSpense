@@ -1,0 +1,254 @@
+{
+    "Packages": [
+        {
+            "Id": "SteamGridDB.RomManager",
+            "Versions": [
+                "2.3.40",
+                "2.3.37"
+            ],
+            "Latest": {
+                "Name": "Steam ROM Manager",
+                "Publisher": "FrogTheFrog",
+                "Tags": [
+                    "gaming",
+                    "rom",
+                    "steam"
+                ],
+                "Description": "Steam ROM Manager is a super flexible tool for adding non-Steam games to steam in bulk and managing their artwork assets.\nAdded games could be ROMs for emulators, games from other stores such as Epic or GOG, or even not games at all.\nHave you always wanted your notes from junior year as a category in steam? If so that's pretty weird! But now it's possible.",
+                "Homepage": "https://github.com/SteamGridDB/steam-rom-manager",
+                "License": "GPL-3.0",
+                "LicenseUrl": "https://github.com/SteamGridDB/steam-rom-manager/blob/master/LICENSE"
+            },
+            "Featured": false,
+            "IconUrl": null,
+            "Banner": null,
+            "Logo": null,
+            "UpdatedAt": "2022-09-17T00:04:28.140939",
+            "CreatedAt": "2022-09-17T00:04:28.140939",
+            "createdAt": "2022-09-18T14:33:45.664Z",
+            "updatedAt": "2022-09-18T14:33:45.664Z",
+            "SearchScore": 47.33333333333333
+        },
+        {
+            "Id": "Valve.Steam",
+            "Versions": [
+                "2.10.91.91"
+            ],
+            "Latest": {
+                "Name": "Steam",
+                "Publisher": "Valve Corporation",
+                "Tags": [
+                    "games",
+                    "gaming",
+                    "purchase",
+                    "store"
+                ],
+                "Description": "Steam is a digital distribution platform developed by Valve Corporation for purchasing and playing video games. Steam offers digital rights management, matchmaking servers, video streaming, and social networking services.",
+                "Homepage": "https://store.steampowered.com/",
+                "License": "Proprietary",
+                "LicenseUrl": "https://store.steampowered.com/legal/"
+            },
+            "Featured": true,
+            "IconUrl": null,
+            "Banner": "https://cdn.discordapp.com/attachments/722206274363588608/748628134039126046/unknown.png",
+            "Logo": "https://cdn.discordapp.com/attachments/722206274363588608/748624786866962633/steam.svg",
+            "UpdatedAt": "2022-09-17T00:04:41.255789",
+            "CreatedAt": "2022-09-17T00:04:41.255789",
+            "createdAt": "2022-09-18T14:33:46.245Z",
+            "updatedAt": "2022-09-18T14:33:46.245Z",
+            "SearchScore": 45.33333333333333
+        },
+        {
+            "Id": "OVRASTeam.OpenVR-AdvancedSettings",
+            "Versions": [
+                "5.6.2",
+                "5.5.0",
+                "5.4.0",
+                "5.3.2"
+            ],
+            "Latest": {
+                "Name": "OpenVR Advanced Settings",
+                "Publisher": "OpenVR Advanced Settings Team",
+                "Tags": [],
+                "Description": "OpenVR Advanced Settings is a desktop overlay application for OpenVR/SteamVR, giving you a wide array of settings and utilities all while in VR.",
+                "Homepage": null,
+                "License": "GPL-3.0 License",
+                "LicenseUrl": null
+            },
+            "Featured": false,
+            "IconUrl": null,
+            "Banner": null,
+            "Logo": null,
+            "UpdatedAt": "2022-09-17T00:04:07.444311",
+            "CreatedAt": "2022-09-17T00:04:07.444311",
+            "createdAt": "2022-09-18T14:33:44.737Z",
+            "updatedAt": "2022-09-18T14:33:44.737Z",
+            "SearchScore": 28.230482204362794
+        },
+        {
+            "Id": "AwthWathje.SteaScree",
+            "Versions": [
+                "1.5.4"
+            ],
+            "Latest": {
+                "Name": "SteaScree",
+                "Publisher": "Foyl",
+                "Tags": [
+                    "screenshot",
+                    "steam"
+                ],
+                "Description": "SteaScree is a simple cross-platform open-source utility app, which makes screenshots, taken without the use of Steam's in-game overlay, uploadable to the Steam Cloud. You just pick pics, a game and SteaScree will do the rest.",
+                "Homepage": "https://steascree.download/",
+                "License": "GPL-3.0",
+                "LicenseUrl": "https://github.com/awthwathje/SteaScree/blob/master/LICENSE"
+            },
+            "Featured": false,
+            "IconUrl": null,
+            "Banner": null,
+            "Logo": null,
+            "UpdatedAt": "2022-09-17T00:02:45.077133",
+            "CreatedAt": "2022-09-17T00:02:45.077133",
+            "createdAt": "2022-09-18T14:33:40.327Z",
+            "updatedAt": "2022-09-18T14:33:40.327Z",
+            "SearchScore": 27.820512820512818
+        },
+        {
+            "Id": "brianlima.uwphook",
+            "Versions": [
+                "2.11.00.00",
+                "2.10.00.00",
+                "2.9.2.00"
+            ],
+            "Latest": {
+                "Name": "UWPHook",
+                "Publisher": "Briano",
+                "Tags": [
+                    "link",
+                    "shortcut",
+                    "steam",
+                    "uwp",
+                    "xbox",
+                    "xgp"
+                ],
+                "Description": "link UWP games and XboxGamePass to Steam",
+                "Homepage": "https://github.com/BrianLima/UWPHook",
+                "License": "MIT License",
+                "LicenseUrl": "https://raw.githubusercontent.com/BrianLima/UWPHook/master/License.md"
+            },
+            "Featured": false,
+            "IconUrl": null,
+            "Banner": null,
+            "Logo": null,
+            "UpdatedAt": "2022-09-17T00:02:53.696030",
+            "CreatedAt": "2022-09-17T00:02:53.696030",
+            "createdAt": "2022-09-18T14:33:40.699Z",
+            "updatedAt": "2022-09-18T14:33:40.699Z",
+            "SearchScore": 15.576923076923077
+        },
+        {
+            "Id": "Iriun.IriunVR",
+            "Versions": [
+                "2.4"
+            ],
+            "Latest": {
+                "Name": "Iriun VR Server",
+                "Publisher": "Iriun",
+                "Tags": [
+                    "SteamVR",
+                    "virtual reality"
+                ],
+                "Description": "Use your phone as a Virtual Reality display. Iriun VR makes it possible to play SteamVR games with low cost headsets. Install needed drivers and start playing your favourite SteamVR games.",
+                "Homepage": "https://iriun.com",
+                "License": "Copyright (c) 2020 Iriun",
+                "LicenseUrl": null
+            },
+            "Featured": false,
+            "IconUrl": null,
+            "Banner": null,
+            "Logo": null,
+            "UpdatedAt": "2022-09-17T00:03:30.796882",
+            "CreatedAt": "2022-09-17T00:03:30.796882",
+            "createdAt": "2022-09-18T14:33:42.816Z",
+            "updatedAt": "2022-09-18T14:33:42.816Z",
+            "SearchScore": 15.5
+        },
+        {
+            "Id": "Klocman.BulkCrapUninstaller",
+            "Versions": [
+                "5.4.0.0",
+                "5.3.0.0",
+                "5.2.0.0",
+                "5.1.0.0",
+                "5.0.0.0",
+                "4.16.0.0"
+            ],
+            "Latest": {
+                "Name": "BCUninstaller",
+                "Publisher": "Marcin Szeniak",
+                "Tags": [
+                    "application-manager",
+                    "application-uninstaller",
+                    "bloatware",
+                    "bulk-actions",
+                    "bulk-crap-uninstaller",
+                    "cleaner",
+                    "debloat",
+                    "disk-space",
+                    "foss",
+                    "open-source",
+                    "software-management",
+                    "unattended-uninstall",
+                    "uninstall",
+                    "uninstaller"
+                ],
+                "Description": "Bulk Crap Uninstaller (or BCUninstaller) is a free (as in speech) program uninstaller.\nIt excels at removing large amounts of applications with minimal user input. It can clean up leftovers, detect orphaned applications, run uninstallers according to premade lists, and much more!\nEven though BCU was made with IT pros in mind, by default it is so straight-forward that anyone can use it.\n\nBCU is fully compatible with Windows Store Apps, Steam, Windows Features and has special support for many uninstalling systems (NSIS, InnoSetup, Msiexec, and many other).",
+                "Homepage": "https://www.bcuninstaller.com",
+                "License": "Apache License 2.0",
+                "LicenseUrl": "https://raw.githubusercontent.com/Klocman/Bulk-Crap-Uninstaller/v5.2/Licence.txt"
+            },
+            "Featured": false,
+            "IconUrl": null,
+            "Banner": null,
+            "Logo": null,
+            "UpdatedAt": "2022-09-17T00:03:40.156157",
+            "CreatedAt": "2022-09-17T00:03:40.156157",
+            "createdAt": "2022-09-18T14:33:43.269Z",
+            "updatedAt": "2022-09-18T14:33:43.269Z",
+            "SearchScore": 15.375193398659103
+        },
+        {
+            "Id": "AnthonyBeaumont.AchievementWatcher",
+            "Versions": [
+                "1.6.8",
+                "1.6.7",
+                "1.6.6",
+                "1.6.5"
+            ],
+            "Latest": {
+                "Name": "Achievement Watcher",
+                "Publisher": "Anthony Beaumont",
+                "Tags": [
+                    "achievement",
+                    "achievement-tracker",
+                    "rpcs3",
+                    "steam",
+                    "uplay"
+                ],
+                "Description": "Achievement Watcher allows you to view every achievement earned on your PC whether it's coming from Steam, a Steam emulator, and more.",
+                "Homepage": "https://github.com/xan105/Achievement-Watcher",
+                "License": "LGPL-3.0",
+                "LicenseUrl": "https://github.com/xan105/Achievement-Watcher/blob/master/LICENSE"
+            },
+            "Featured": false,
+            "IconUrl": null,
+            "Banner": null,
+            "Logo": null,
+            "UpdatedAt": "2022-09-17T00:02:41.224569",
+            "CreatedAt": "2022-09-17T00:02:41.224569",
+            "createdAt": "2022-09-18T14:33:40.150Z",
+            "updatedAt": "2022-09-18T14:33:40.150Z",
+            "SearchScore": 15.202702702702705
+        }
+    ],
+    "Total": 8
+}
